@@ -68,6 +68,7 @@ body {
   font-family: "SpoqaHanSansNeo-Medium";
   line-height: 15px;
   font-weight: 500;
+  position: relative;
 }
 
 .login .loginBtn .loginText::before {
@@ -77,8 +78,8 @@ body {
   background-image: url(./imgs/weniv-logo.png);
   background-size: cover;
   position: absolute;
-  top: 90px;
-  left: 149px;
+  top: 0;
+  left: 0;
 }
 
 .login .bottomText {
