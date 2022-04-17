@@ -16,7 +16,7 @@
 ### 2.2 배포
 
 - Github Pages 사용
-- url
+- https://alstjr5949.github.io/loginPageAssignment/
 
 ## 3. Preview
 
